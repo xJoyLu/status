@@ -1,31 +1,33 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: xjoylu # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+- name: 卢东东
+  url: https://ldd.cc
+  port: 80
+  check: "tcp-ping"
+  ipv6: true
+- name: 三义栈
+  url: https://3ez.cn
+- name: 序章官网
+  url: https://xuzh.com
+- name: 无所事事
+  url: https://wusuoshishi.com
+- name: LCC
+  url: https://lcc.cc
+- name: PJ
+  url: https://peijin.cn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.ldd.cc
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: 云服务健康看板
+  introTitle: "**云服务健康看板** by [Ldd](https://ldd.cc)"
+  introMessage: 这是一个实时、纯前端的云服务状态监控面板，用于展示多个自有域名或服务的在线状态与响应速度。无需登录、无需后端部署，一键查看所有服务的健康状况，帮助开发者与运营者第一时间掌握网站可用性。技术支持：[卢东东](https://ldd.cc)
   navbar:
     - title: Status
       href: /
