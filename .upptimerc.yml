@@ -15,9 +15,6 @@ sites:
   url: https://lcc.cc
 - name: PJ
   url: https://peijin.cn
-  port: 80
-  check: "tcp-ping"
-  ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
