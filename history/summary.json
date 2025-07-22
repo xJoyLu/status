@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ldd.cc.ico",
     "slug": "",
     "status": "up",
-    "uptime": "81.66%",
-    "uptimeDay": "81.66%",
-    "uptimeWeek": "81.66%",
-    "uptimeMonth": "81.66%",
-    "uptimeYear": "81.66%",
+    "uptime": "77.09%",
+    "uptimeDay": "77.09%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "77.09%",
+    "uptimeYear": "77.09%",
     "time": 995,
     "timeDay": 995,
     "timeWeek": 995,
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-07-22": 22
+      "2025-07-22": 29
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/3ez.cn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "81.66%",
-    "uptimeDay": "81.66%",
-    "uptimeWeek": "81.66%",
-    "uptimeMonth": "81.66%",
-    "uptimeYear": "81.66%",
+    "uptime": "77.09%",
+    "uptimeDay": "77.09%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "77.09%",
+    "uptimeYear": "77.09%",
     "time": 995,
     "timeDay": 995,
     "timeWeek": 995,
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-07-22": 22
+      "2025-07-22": 29
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xuzh.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "81.62%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "81.62%",
-    "uptimeYear": "81.62%",
+    "uptime": "77.09%",
+    "uptimeDay": "77.09%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "77.09%",
+    "uptimeYear": "77.09%",
     "time": 995,
     "timeDay": 995,
     "timeWeek": 995,
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-07-22": 22
+      "2025-07-22": 29
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wusuoshishi.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "81.62%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "81.62%",
-    "uptimeMonth": "81.62%",
-    "uptimeYear": "81.62%",
+    "uptime": "77.09%",
+    "uptimeDay": "77.09%",
+    "uptimeWeek": "77.09%",
+    "uptimeMonth": "77.09%",
+    "uptimeYear": "77.09%",
     "time": 995,
     "timeDay": 995,
     "timeWeek": 995,
     "timeMonth": 995,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2025-07-22": 22
+      "2025-07-22": 29
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://peijin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/peijin.cn.ico",
     "slug": "pj",
-    "status": "down",
-    "uptime": "81.59%",
-    "uptimeDay": "81.59%",
-    "uptimeWeek": "81.59%",
-    "uptimeMonth": "81.59%",
-    "uptimeYear": "81.59%",
-    "time": 1766,
-    "timeDay": 1766,
-    "timeWeek": 1766,
-    "timeMonth": 1766,
-    "timeYear": 1766,
+    "status": "up",
+    "uptime": "77.08%",
+    "uptimeDay": "77.08%",
+    "uptimeWeek": "77.08%",
+    "uptimeMonth": "77.08%",
+    "uptimeYear": "77.08%",
+    "time": 1751,
+    "timeDay": 1751,
+    "timeWeek": 1751,
+    "timeMonth": 1751,
+    "timeYear": 1751,
     "dailyMinutesDown": {
-      "2025-07-22": 22
+      "2025-07-22": 29
     }
   }
 ]
