@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ldd.cc.ico",
     "slug": "",
     "status": "up",
-    "uptime": "31.10%",
-    "uptimeDay": "31.10%",
-    "uptimeWeek": "31.10%",
-    "uptimeMonth": "31.10%",
-    "uptimeYear": "31.10%",
-    "time": 991,
-    "timeDay": 991,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "uptime": "4.05%",
+    "uptimeDay": "4.05%",
+    "uptimeWeek": "4.05%",
+    "uptimeMonth": "4.05%",
+    "uptimeYear": "4.05%",
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 22
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/3ez.cn.ico",
     "slug": "",
     "status": "up",
-    "uptime": "32.42%",
-    "uptimeDay": "32.42%",
-    "uptimeWeek": "32.42%",
-    "uptimeMonth": "32.42%",
-    "uptimeYear": "32.42%",
-    "time": 991,
-    "timeDay": 991,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "uptime": "4.08%",
+    "uptimeDay": "4.08%",
+    "uptimeWeek": "4.08%",
+    "uptimeMonth": "4.08%",
+    "uptimeYear": "4.08%",
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 22
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xuzh.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "33.31%",
-    "uptimeDay": "33.31%",
-    "uptimeWeek": "33.31%",
-    "uptimeMonth": "33.31%",
-    "uptimeYear": "33.31%",
-    "time": 991,
-    "timeDay": 991,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "uptime": "4.10%",
+    "uptimeDay": "4.10%",
+    "uptimeWeek": "4.10%",
+    "uptimeMonth": "4.10%",
+    "uptimeYear": "4.10%",
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 22
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wusuoshishi.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "34.38%",
-    "uptimeDay": "34.38%",
-    "uptimeWeek": "34.38%",
-    "uptimeMonth": "34.38%",
-    "uptimeYear": "34.38%",
-    "time": 991,
-    "timeDay": 991,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "uptime": "4.11%",
+    "uptimeDay": "4.11%",
+    "uptimeWeek": "4.11%",
+    "uptimeMonth": "4.11%",
+    "uptimeYear": "4.11%",
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 22
     }
   },
   {
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 1139,
-    "timeWeek": 1139,
-    "timeMonth": 1139,
-    "timeYear": 1139,
+    "time": 1085,
+    "timeDay": 1085,
+    "timeWeek": 1085,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://peijin.cn",
     "icon": "https://icons.duckduckgo.com/ip3/peijin.cn.ico",
     "slug": "pj",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "3.70%",
+    "uptimeDay": "3.70%",
+    "uptimeWeek": "3.70%",
+    "uptimeMonth": "3.70%",
+    "uptimeYear": "3.70%",
+    "time": 1866,
+    "timeDay": 1866,
+    "timeWeek": 1866,
+    "timeMonth": 1866,
+    "timeYear": 1866,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 22
     }
   }
 ]
